@@ -1,0 +1,14 @@
+{
+  "name": "keyboard",
+  "version": "1.0.0",
+  "description": "app to record audio messages and send it to Steff's cool keyboard",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
